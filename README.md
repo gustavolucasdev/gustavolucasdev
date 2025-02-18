@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔭 I'm working as an administrative assistant.<br>- 📚 I'm currently learning web development.<br>- ⚡ In my free time I like to study and read books, I also can't resist a game of Counter-Strike. :D</p>
+<p align="left">- 🔭 I'm working as an administrative assistant.<br>- 📚 I'm currently learning web development.<br>- ⚡ In my spare time I like to study and read books, on my free days to stress I like to play Counter-Strike. XD</p>
 
 ###
 
