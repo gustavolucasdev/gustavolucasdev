@@ -39,7 +39,7 @@
 
 ###
 
-<h3 align="left">📲 Contact's and social media</h3>
+<h3 align="left">📲 Contate-me, abaixo minhas redes sociais</h3>
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 Minhas estatísticas:</h3>
 
 ###
 
