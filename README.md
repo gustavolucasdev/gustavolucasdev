@@ -1,22 +1,27 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">E aí 👋 Tudo certo?</h1>
 
 ###
 
-<p align="left">My name is Gustavo and I'm a full stack developer, from Minas Gerais, Brasil.</p>
+<p align="left">Meu nome é Gustavo e sou desenvolvedor full stack, no momento resido em Minas Gerais, Brasil.</p>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 Sobre Mim</h3>
 
 ###
 
-<p align="left">- 🔭 I'm working as an administrative assistant.<br>- 📚 I'm currently learning web development.<br>- ⚡ In my spare time I like to study and read books, on my free days to stress I like to play Counter-Strike. XD</p>
+<p align="left">
+- 🔭 Atualmente trabalho como auxiliar administrativo.<br>
+- 📚 No momento estou aprendendo desenvolvimento web.<br>
+- ⚡ No meu tempo livre gosto de estudar e ler livros. Nos dias de folga, para desestressar, gosto de jogar Counter-Strike. XD
+</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagens e Ferramentas</h3>
 
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
