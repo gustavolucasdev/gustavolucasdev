@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Gustavo e sou desenvolvedor full stack, no momento resido em Minas Gerais, Brasil.</p>
+<p align="left">Sou desenvolvedor em formação, com foco em back-end, residente em Minas Gerais, Brasil.</p>
 
 ###
 
@@ -11,9 +11,10 @@
 ###
 
 <p align="left">
-- 🔭 Atualmente trabalho como auxiliar administrativo.<br>
-- 📚 No momento estou aprendendo desenvolvimento web.<br>
-- ⚡ No meu tempo livre gosto de estudar e ler livros. Nos dias de folga, para desestressar, gosto de jogar Counter-Strike. XD
+- 💼 Atuo como Técnico de TI na administração pública.<br>
+- 📚 Atualmente estudo desenvolvimento back-end com Java e seu ecossistema.<br>
+- 🌐 Possuo contato com desenvolvimento web, incluindo HTML, CSS e JavaScript básico.<br>
+- ⚡ No tempo livre, gosto de estudar, praticar programação e ler livros sobre tecnologia.
 </p>
 
 ###
