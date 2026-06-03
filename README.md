@@ -14,7 +14,7 @@
 - 💼 Atuo como Técnico de TI na administração pública.<br>
 - 📚 Atualmente estudo desenvolvimento back-end com Java e seu ecossistema.<br>
 - 🌐 Possuo contato com desenvolvimento web, incluindo HTML, CSS e JavaScript básico.<br>
-- ⚡ No tempo livre, gosto de estudar, praticar programação e ler livros sobre tecnologia.
+- ⚡ No tempo livre, gosto de estudar, praticar programação e ler livros sobre tecnologia e assuntos que ajudam a me tornar uma pessoa com mais clareza e compreensão sobre as coisas.
 </p>
 
 ###
